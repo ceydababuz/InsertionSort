@@ -1,5 +1,7 @@
 # InsertionSort
 
+www.patika.dev
+
 1) [22,27,16,2,18,6] dizisin Insertion Sort türüne göre aşamaları:
 
    [16,22,27,2,18,6]
